@@ -10,7 +10,7 @@ These scripts can be run as is or in their binary format. For ease of use and de
 
 Instructions for use:
 
--> Navigate to the 'DeployToast' directory
+-> Navigate to the 'DeployToast' directory \n
 -> Navigate to the 'Binaries' directory
 -> Navigate to the most recent version
 -> Run 'DeployEndpointToast.exe'
